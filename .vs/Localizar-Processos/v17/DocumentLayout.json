@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Reverse\\Localizar-Processos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3F8A2-294F-4089-B7C9-6CAEA8A07327}|Localizar-Processos\\Localizar-Processos.vcxproj|C:\\Users\\USER\\Desktop\\Reverse\\Localizar-Processos\\Localizar-Processos\\Localizar-Processos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42A3F8A2-294F-4089-B7C9-6CAEA8A07327}|Localizar-Processos\\Localizar-Processos.vcxproj|solutionrelative:Localizar-Processos\\Localizar-Processos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Localizar-Processos.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Reverse\\Localizar-Processos\\Localizar-Processos\\Localizar-Processos.cpp",
+              "RelativeDocumentMoniker": "Localizar-Processos\\Localizar-Processos.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Reverse\\Localizar-Processos\\Localizar-Processos\\Localizar-Processos.cpp",
+              "RelativeToolTip": "Localizar-Processos\\Localizar-Processos.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-10T20:09:58.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
